@@ -71,5 +71,5 @@ class legoData {
   }
 }
 
-module.exports = LegoData; // Exporting the legoData class
+module.exports = legoData; // Exporting the legoData class
 
